@@ -1,1 +1,1 @@
-priemera linea
+primera linea
